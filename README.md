@@ -7,3 +7,5 @@ cobra.exe <target pid> <path to executable> [options]
         -d <path to dll>        Inject target dll into spoofed process
         -h                      Print help
 ```
+
+Only use during legal activities. I take no responsibility for the misuse of this software.
